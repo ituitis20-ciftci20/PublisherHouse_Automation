@@ -12,6 +12,6 @@ Web site: http://www.kaknus.com.tr/
 
 Table of Contents:
  * Part1 is about scrapping data from web site. Especially, book ids which are associated with every book in the HTML file.
- * Part2 is about comparing excel data and web data. Some books names are undermatching because of the typos.
+ * Part2 is about comparing excel data and web data. Some book names are undermatching because of the typos.
  * Part3 is about fixing typos in our input excel file.
  * Part4 is about updating prices. Try to implement some one to one dictionary for every book in excel and every book in web site.
