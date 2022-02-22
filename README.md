@@ -1,4 +1,4 @@
-# PublisherHouse_Automation
+# PublishingHouse_Automation
 This project is about updating prices of books in an automatic way.
 
 Problem:
