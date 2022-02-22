@@ -1,0 +1,30 @@
+Emma|20,00|6933
+Fýrtýna|20,00|6931
+Frankenstein|20,00|6929
+The Odyssey – Ýngilizce|20,00|6925
+The Iliad – Ýngilizce|20,00|6916
+1001 Doðal Reçete|72,00|2580
+Hamlet|20,00|6905
+Huckleberry Finn|20,00|6903
+Ýki Þehrin Hikayesi|20,00|6882
+Ýkna|20,00|6880
+Jane Eyre|20,00|6878
+Kayýp Dünya|20,00|6876
+Kýzýl Dosya|20,00|6874
+Bana Kendi Kendime Yetmeyi Öðret|55,00|5958
+Harika Çocuk Nasýl Yetiþtirilir?|60,00|5956
+Montessori Etkinlikleri|60,00|5960
+Çocuðunuz Hakkýnda Bilmeniz Gerekenler|20,00|5747
+Nefs Psikolojisi|110,00|5951
+Kuyu ve Sarkaç|20,00|6855
+Küçük Dorrit|20,00|6853
+Macbeth|20,00|6850
+Moby Dick|20,00|6848
+Morgue Sokaðý Cinayetleri|20,00|6846
+Muhteþem Gatsby|20,00|6844
+Notre Dame’ýn Kamburu|20,00|6842
+Oliver Twist|20,00|6840
+On Ýkinci Gece|20,00|6838
+Robinson Crusoe|20,00|6836
+Silas Marner|20,00|6832
+Tom Sawyer|20,00|6830
